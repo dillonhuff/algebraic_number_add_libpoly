@@ -47,19 +47,4 @@ int main() {
   lp_dyadic_rational_destruct(&d_one);
   lp_dyadic_rational_destruct(&d_two);
 
-
-  /* lp_dyadic_rational_t cp; */
-  /* lp_dyadic_rational_construct(&cp); */
-  /* lp_algebraic_number_get_dyadic_midpoint(a, &cp); */
-
-  /* lp_dyadic_rational_t m_one; */
-  /* lp_dyadic_rational_construct(&m_one); */
-  /* lp_dyadic_rational_add(&m_one, &cp, &tmp); */
-
-  /* lp_algebraic_number_construct_from_dyadic_rational(res, &m_one); */
-
-  /* lp_dyadic_rational_destruct(&m_one); */
-  /* lp_dyadic_rational_destruct(&tmp); */
-  /* lp_dyadic_rational_destruct(&cp); */
-
 }
